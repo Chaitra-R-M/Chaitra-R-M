@@ -16,4 +16,4 @@ I’m currently working on developing a solid project<br>I'm learning computer s
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Chaitra R M&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ChaitraRM&icon=0&color=0)](https://visitcount.itsvg.in)
